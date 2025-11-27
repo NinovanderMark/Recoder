@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Recoder.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-e HelloWorld"
+    }
+  }
+}
